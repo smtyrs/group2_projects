@@ -1,1 +1,6 @@
-This folder contains documentations and other details for the capstone project
+### Primary Objective
+This repository contains the documentations of Capstone Project
+
+### Team Members
+1) Lam To Ngan (Ivy)
+2) Smitesh Tamboli
